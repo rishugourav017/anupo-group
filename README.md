@@ -1,34 +1,41 @@
-# Anupo Group
+# Anupo Group Website Project
 
-**Anupo Group** एक मज़दूर सप्लाई कंपनी है, जिसका उद्देश्य मज़दूर भाइयों को सुरक्षित और भरोसेमंद काम दिलाना है।  
-हम यह सुनिश्चित करते हैं कि हर मज़दूर को सही वेतन, रहने-खाने की सुविधा और PF/UAN जैसी सुविधाएँ मिले।  
+**Anupo Group** website is a practical project aimed at simplifying labor supply and recruitment digitally.  
+This project is created as a student learning project using HTML, CSS, and JavaScript.  
 
 ---
 
-## 🌐 हमारी वेबसाइट
+## 🌐 Live Website
 👉 [Anupo Group Live Website](https://rishugourav017.github.io/anupo-group/)  
 
-इस वेबसाइट पर मज़दूर भाई आसानी से भर्ती की जानकारी देख सकते हैं और खुद अपनी जानकारी भर सकते हैं।  
-वेबसाइट का डिज़ाइन बहुत सरल है ताकि कोई भी मज़दूर इसे बिना किसी दिक्कत के इस्तेमाल कर सके।  
+Website Objectives:
+- Enable laborers to easily view recruitment information.  
+- Allow users to safely submit their details.  
+- Simple and user-friendly design for easy navigation.  
 
 ---
 
-## 📝 मज़दूर आवेदन फॉर्म
-अगर आप मज़दूर हैं और काम करना चाहते हैं, तो नीचे दिए गए फॉर्म को भरें:  
+## 📝 Labor Application Form
+The website includes a labor application form. All responses are securely stored in Google Sheets.  
 
-👉 [Google Form भरने के लिए क्लिक करें](https://docs.google.com/forms/d/e/1FAIpQLSegnmYKjfCNuZnbd7-hZnpDQOl0ZXufbaBA2niGG_BXcvV2iA/viewform?usp=header)  
-
-सभी responses सीधे सुरक्षित रूप से Google Sheet में सेव हो जाते हैं।  
+👉 [Click here to fill the Google Form](https://docs.google.com/forms/d/e/1FAIpQLSegnmYKjfCNuZnbd7-hZnpDQOl0ZXufbaBA2niGG_BXcvV2iA/viewform?usp=header)  
 
 ---
 
-## 📞 संपर्क जानकारी
-- कंपनी: **Anupo Group**  
-- स्थान: जिंदल, अंगुल (ओडिशा)  
-- ठेकेदार: **अनिल सिंह**  
-- मोबाइल: **9142343910**  
-- पता: पंडरी, हंटरगंज, चतरा, झारखंड  
+## 💻 Technologies & Tools
+- **HTML5** – Structure  
+- **CSS3** – Styling  
+- **JavaScript** – Interactivity  
+- **GitHub Pages** – Project Hosting  
+- **Google Forms & Sheets** – Data Collection  
 
 ---
 
-🙏 *Anupo Group – मज़दूरों का सच्चा साथी*  
+## 🚀 Project Goals
+- Gain practical experience in web development.  
+- Build a simple and user-friendly interface.  
+- Learn form handling and data collection.  
+
+---
+
+🙏 *A project created from a professional and learner perspective.*
